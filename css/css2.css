@@ -1,0 +1,314 @@
+* {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 14px;
+	margin: 0px;
+	padding: 0px;
+}
+.clear {
+	clear: both;
+}
+body {
+	background-color: #FFC;
+
+}
+p {
+	font-size: 15px;
+	line-height: 22px;
+}
+h1 {
+	
+	font-size: 22pt;
+}
+h2 {
+	
+	font-size: 18px;
+	margin-top: 2px;
+	margin-bottom: 10px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	color: #333;
+	line-height: 25px;
+	letter-spacing: 2px;
+	border-bottom-width: 4px;
+	border-bottom-style: double;
+	border-bottom-color: #060;
+}
+h3 {
+	
+	font-size: 14px;
+	margin-top: 1px;
+	margin-bottom: 5px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+h4 {
+	
+	font-size: 14px;
+	margin-top: 2px;
+	margin-bottom: 4px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+h5 {
+	font-size: 16px;
+	margin-top: 2px;
+	margin-bottom: 8px;
+	line-height: 20px;
+	border-bottom-width: 3px;
+	border-bottom-style: solid;
+	border-bottom-color: #000;
+	background-color: #FF9;
+}
+
+
+#outerlayout {
+	text-align: left;
+
+}
+#outerlayout #header {
+	margin-bottom: 0px;
+	background-color: #060;
+}
+#outerlayout #header .conter {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#outerlayout #header #logo {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#outerlayout #header #logo img {
+	margin: 0px;
+	padding: 0px;
+}
+
+#outerlayout #header #menu {
+	background-color: #FC0;
+	border-top-width: medium;
+	border-right-width: medium;
+	border-bottom-width: medium;
+	border-left-width: medium;
+	border-top-style: solid;
+	border-top-color: #030;
+	border-right-color: #030;
+	border-bottom-color: #030;
+	border-left-color: #030;
+	border-right-style: solid;
+	border-left-style: solid;
+}
+#outerlayout #header #menu ul {
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 5px;
+}
+#outerlayout #header #menu ul li {
+	list-style-type: none;
+	display: inline;
+}
+#outerlayout #header #menu ul li a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #000;
+	border-right-width: 2px;
+	border-right-style: solid;
+	border-right-color: #FFC;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+#outerlayout #header #menu ul li a:visited {
+	text-decoration: none;
+	font-weight: bold;
+	color: #333;
+	border-right-width: 2px;
+	border-right-style: solid;
+	border-right-color: #FFC;
+	padding-right: 10px;
+	padding-left: 10px;
+	background-color: #F90;
+}
+#outerlayout #header #menu ul li a:hover {
+	text-decoration: none;
+	font-weight: bold;
+	color: #060;
+	border-right-width: 2px;
+	border-right-style: solid;
+	border-right-color: #FFC;
+	padding-right: 10px;
+	padding-left: 10px;
+	border-bottom-width: 4px;
+	border-bottom-style: double;
+	border-bottom-color: #000;
+	font-size: 15px;
+}
+
+
+#outerlayout #banner {
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #000;
+	border-bottom-width: 4px;
+	border-bottom-style: solid;
+	border-bottom-color: #000;
+}
+#outerlayout #outercontenteslayout {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 5px;
+	background-color: #FFF;
+	border-top-width: medium;
+	border-right-width: medium;
+	border-bottom-width: medium;
+	border-left-width: medium;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-top-color: #000;
+	border-right-color: #000;
+	border-bottom-color: #000;
+	border-left-color: #000;
+}
+#outerlayout #outercontenteslayout #deuxlinel {
+	width: 460px;
+	float: left;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	padding-top: 2px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+#outerlayout #outercontenteslayout #deuxlinel ol {
+	font-size: 13px;
+	list-style-type: none;
+}
+#outerlayout #outercontenteslayout #deuxlinel ol li {
+	font-size: 14px;
+	width: 400px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	margin-left: 22px;
+	list-style-type: disc;
+}
+
+#outerlayout #outercontenteslayout #deuxliner {
+	width: 460px;
+	float:right;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	padding-top: 2px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+
+#outerlayout #outercontenteslayout #text1 {
+	width: 300px;
+	float: left;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	padding-top: 2px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+#outerlayout #outercontenteslayout #text2 {
+	width: 300px;
+	float: left;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	padding-top: 2px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+#outerlayout #outercontenteslayout #text3 {
+	width: 300px;
+	float: left;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	padding-top: 2px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+#outerlayout #outercontenteslayout #text3 img {
+	height: 135px;
+	width: 135px;
+	margin: 5px;
+}
+
+#outerlayout #outerfooter {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FC0;
+	border-top-width: medium;
+	border-right-width: medium;
+	border-bottom-width: medium;
+	border-left-width: medium;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #000;
+	border-right-color: #000;
+	border-bottom-color: #000;
+	border-left-color: #000;
+}
+#outerlayout #outerfooter #footer1 {
+	width: 300px;
+	float: left;
+	margin-right: 5px;
+	margin-left: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-top: 5px;
+}
+#outerlayout #outerfooter #footer1 ul {
+}
+#outerlayout #outerfooter #footer1 ul li {
+	font-size: 10px;
+	list-style-type: none;
+	display: inline;
+}
+#outerlayout #outerfooter #footer1 ul li a {
+	font-size: 12px;
+}
+
+#outerlayout #outerfooter #footer2 {
+	width: 300px;
+	float: left;
+	margin-right: 5px;
+	margin-left: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-top: 5px;
+}
+#outerlayout #outerfooter #footer3 {
+	width: 300px;
+	float:right;
+	margin-right: 5px;
+	margin-left: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-top: 5px;
+}
+#outerlayout .made_by {
+	font-family: "Lucida Console", Monaco, monospace;
+	font-size: 10px;
+	color: #999;
+	text-align: center;
+}
+#outerlayout .made_by a {
+	font-size: 10px;
+	color: #999;
+}

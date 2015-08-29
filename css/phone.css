@@ -1,0 +1,196 @@
+@media only screen and (max-width: 999px) { /* rules that only apply for canvases narrower than 1000px */
+#header{
+		margin-right: auto;
+	margin-left: auto;
+	width: 960px;	
+	
+	
+}
+#outerlayout #header #logo{
+	margin-right: auto;
+	margin-left: auto;
+	width: 960px;	
+	
+	
+}
+#outerlayout #header .conter{
+	margin-right: auto;
+	margin-left: auto;
+	width: 960px;	
+	
+	
+}
+#outerlayout #outercontenteslayout #deuxlinel{
+	margin-right: auto;
+	margin-left: auto;
+	width: 960px;	
+	
+	
+}
+#outerfooter{
+	margin-right: auto;
+	margin-left: auto;
+	width: 960px;
+	
+	
+}
+
+
+
+#sliderFrame {
+	margin-right: auto;
+	margin-left: auto;
+	width: 960px;	
+	
+	
+}
+#slider {
+	margin-right: auto;
+	margin-left: auto;
+	width: 960px;	
+	
+	
+}
+
+
+
+
+}
+
+@media only screen and (device-width: 768px) and (orientation: landscape) { /* rules for iPad in landscape orientation */
+#header{
+		margin-right: auto;
+	margin-left: auto;
+	width: 768px;	
+	
+	
+}
+#outerlayout #header #logo{
+	margin-right: auto;
+	margin-left: auto;
+	width: 768px;	
+	
+	
+}
+#outerlayout #header .conter{
+	margin-right: auto;
+	margin-left: auto;
+	width: 768px;	
+	
+	
+}
+#outerlayout #outercontenteslayout #deuxlinel{
+	margin-right: auto;
+	margin-left: auto;
+	width: 768px;	
+	
+	
+}
+#outerfooter{
+	margin-right: auto;
+	margin-left: auto;
+	width: 768px;
+	
+	
+}
+
+
+
+#sliderFrame {
+	margin-right: auto;
+	margin-left: auto;
+	width: 768px;	
+	
+	
+}
+#slider {
+	margin-right: auto;
+	margin-left: auto;
+	width: 768px;	
+	
+	
+}
+
+
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) { /* iPhone, Android rules here */
+#header{
+		margin-right: auto;
+	margin-left: auto;
+	width: 98%;	
+	
+	
+}
+#outerlayout #header #logo{
+	margin-right: auto;
+	margin-left: auto;
+	width: 98%;	
+	
+	
+}
+#outerlayout #header .conter{
+	margin-right: auto;
+	margin-left: auto;
+	width: 98%;	
+	
+	
+}
+#outerlayout #outercontenteslayout #deuxlinel, #fullwidth2 .events_outer{
+	margin-right: auto;
+	margin-left: auto;
+	width: 98%;	
+	
+	
+}
+#outerfooter{
+	margin-right: auto;
+	margin-left: auto;
+	width: 98%;	
+	
+}
+
+
+
+#sliderFrame {
+	margin-right: auto;
+	margin-left: auto;
+	width: 98%;
+	
+	
+}
+#slider {
+	margin-right: auto;
+	margin-left: auto;
+	width: 98%;
+	
+	
+}
+
+#outerlayout #outercontenteslayout #text1,#outerlayout #outercontenteslayout #text2, #outerlayout #outercontenteslayout #text3,#outerlayout #outerfooter #footer1,#outerlayout #outerfooter #footer2,#outerlayout #outerfooter #footer3,#outerlayout #outercontenteslayout .text1 {
+	margin-right: auto;
+	margin-left: auto;
+	width: 98%;
+	height:auto;
+}
+#outerlayout #outercontenteslayout #text3,#fullwidth2 {
+	margin-right: auto;
+	margin-left: auto;
+	width: 98%;
+	height:auto;
+	float:left;	
+	
+}
+#fullwidth2 .events_outer .events_info{
+	width:65%;
+
+	
+	
+	
+}
+#fullwidth2 .events_outer .events_info p{
+	font-size:18px;
+	
+	
+}
+}
